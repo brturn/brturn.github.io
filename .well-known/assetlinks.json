@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.brturn.broguece_js",
+      "sha256_cert_fingerprints": [
+        "36:20:A6:54:17:84:9C:B9:D0:E2:8F:2B:FF:49:F1:82:F2:C1:A4:C2:DB:BE:AA:28:50:6F:FB:61:C8:FC:15:3F"
+      ]
+    }
+  }
+]
